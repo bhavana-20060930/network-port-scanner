@@ -143,8 +143,8 @@ network-port-scanner/
 
 ## 👤 Author
 
-**Your Name**  
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | 💻 [GitHub](https://github.com/yourusername)
+**Dasari Bhavana**  
+🌐 [LinkedIn](https://www.linkedin.com/in/bhavana-dasari-22562a2a7/) | 💻 [GitHub](https://github.com/bhavana-20060930)
 
 ---
 
